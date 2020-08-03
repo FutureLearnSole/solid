@@ -31,7 +31,7 @@ Specifically, Solid is:
 * A tech stack -- a set of complementary
   [standards](https://github.com/solid/solid-spec#standards-used) and
   [data formats/vocabularies](https://github.com/solid/vocab) that together
-  provide capabilities that are currently available only through centralized
+  provide capabilities that are currently available only through centralizedas
   social media services (think Facebook/Twitter/LinkedIn/many others), such as
   *identity*, *authentication and login*, *authorization and permission lists*,
   *contact management*, *messaging and notifications*, *feed aggregation and
@@ -166,6 +166,13 @@ to each other through a shared filesystem, and the Web is that filesystem.
   - [Identity providers](https://github.com/solid/solid-idps)
   - [Applications](https://github.com/solid/solid-apps)
   - Join our conversations in our [gitter chat room](https://gitter.im/solid/chat)
+
+### LIVING BOOKMARKS
+
+EVERYONE | DEVELOPERS
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 
 ## Contributing to Solid
