@@ -175,6 +175,16 @@ EVERYONE | DEVELOPERS
 ------------ | -------------
 [solid-bookmarks-everyone](/solid_bookmarks_everyone.html) | [solid-bookmarks-dev](/solid_bookmarks_developers.html)
 <a href="/solid_bookmarks_everyone.html" download>solid-bookmarks-everyone</a> | Content in the second column
+<a href="https://solidproject.org/">The Web — Take 3</a> | cell2
+<a href="mailto:info@solidproject.org">e-mail To: solid team</a> | second
+<a href="https://solidproject.org/use-solid/apps">Start using Solid apps!</a> | cell2
+<a href="https://solidproject.org/">https://solidproject.org</a> | second
+<a href="https://solidproject.org/">The last login you'll ever need</a> | cell2
+<a href="https://inrupt.net/">Try a Data Pod - https://inrupt.net</a> | second
+<a href="https://inrupt.net/">Welcome to Solid - https://inrupt.net</a> | cell2
+<a href="https://solid.community/">Data pod website - solid.community</a> | second
+<a href="https://solid.community/">Welcome to Solid - solid.community website</a> | cell2
+<a href="https://solidproject.org/press">TimBL- How Application Networks Are Changing the Speed of Innovation</a> | second
 
 ## Contributing to Solid
 
