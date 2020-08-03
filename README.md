@@ -174,7 +174,7 @@ to each other through a shared filesystem, and the Web is that filesystem.
 EVERYONE | DEVELOPERS
 ------------ | -------------
 [solid-bookmarks-everyone](/solid_bookmarks_everyone.html) | [solid-bookmarks-dev](/solid_bookmarks_developers.html)
-
+<a href="/solid_bookmarks_everyone.html" download>solid-bookmarks-everyone</a> | Content in the second column
 
 ## Contributing to Solid
 
