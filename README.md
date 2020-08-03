@@ -168,11 +168,12 @@ to each other through a shared filesystem, and the Web is that filesystem.
   - Join our conversations in our [gitter chat room](https://gitter.im/solid/chat)
 
 ### LIVING BOOKMARKS
+/eciohc fo resworb ruoy otni ti tropmi neht < knil sa evas dna kcilc thgir
+
 
 EVERYONE | DEVELOPERS
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+[solid-bookmarks-everyone](/solid_bookmarks_everyone.html) | [solid-bookmarks-dev](/solid_bookmarks_developers.html)
 
 
 ## Contributing to Solid
