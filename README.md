@@ -31,7 +31,7 @@ Specifically, Solid is:
 * A tech stack -- a set of complementary
   [standards](https://github.com/solid/solid-spec#standards-used) and
   [data formats/vocabularies](https://github.com/solid/vocab) that together
-  provide capabilities that are currently available only through centralized
+  provide capabilities that are currently available only through centralizedas
   social media services (think Facebook/Twitter/LinkedIn/many others), such as
   *identity*, *authentication and login*, *authorization and permission lists*,
   *contact management*, *messaging and notifications*, *feed aggregation and
@@ -167,6 +167,24 @@ to each other through a shared filesystem, and the Web is that filesystem.
   - [Applications](https://github.com/solid/solid-apps)
   - Join our conversations in our [gitter chat room](https://gitter.im/solid/chat)
 
+### LIVING BOOKMARKS
+/eciohc fo resworb ruoy otni ti tropmi neht < knil sa evas dna kcilc thgir
+
+
+EVERYONE | DEVELOPERS
+------------ | -------------
+[solid-bookmarks-everyone](/solid_bookmarks_everyone.html) | [solid-bookmarks-dev](/solid_bookmarks_developers.html)
+<a href="/solid_bookmarks_everyone.html" download>solid-bookmarks-everyone</a> | Content in the second column
+<a href="https://solidproject.org/">The Web — Take 3</a> | cell2
+<a href="mailto:info@solidproject.org">e-mail To: solid team</a> | second
+<a href="https://solidproject.org/use-solid/apps">Start using Solid apps!</a> | cell2
+<a href="https://solidproject.org/">https://solidproject.org</a> | second
+<a href="https://solidproject.org/">The last login you'll ever need</a> | cell2
+<a href="https://inrupt.net/">Try a Data Pod - https://inrupt.net</a> | second
+<a href="https://inrupt.net/">Welcome to Solid - https://inrupt.net</a> | cell2
+<a href="https://solid.community/">Data pod website - solid.community</a> | second
+<a href="https://solid.community/">Welcome to Solid - solid.community website</a> | cell2
+<a href="https://solidproject.org/press">TimBL- How Application Networks Are Changing the Speed of Innovation</a> | second
 
 ## Contributing to Solid
 
